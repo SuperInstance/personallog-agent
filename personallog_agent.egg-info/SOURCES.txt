@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+personallog_agent/__init__.py
+personallog_agent.egg-info/PKG-INFO
+personallog_agent.egg-info/SOURCES.txt
+personallog_agent.egg-info/dependency_links.txt
+personallog_agent.egg-info/requires.txt
+personallog_agent.egg-info/top_level.txt
+tests/test_personallog_agent.py
